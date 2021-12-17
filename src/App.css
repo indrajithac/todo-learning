@@ -7,12 +7,34 @@ body {
   background-color: #020631;
 }
 
-.app {
-  position: absolute;
+.app {  
   top: 10%;
-  left: 50%;
-  transform: translate(-50%, -10%);
+  padding-right: 5rem;
+    padding-left: 5rem
 }
+.app .first {
+text-align: center;
+float: left;
+margin-left: 1rem;
+margin-right: 1rem;
+}
+
+.app .second {
+  text-align: center;
+  float: left;
+  margin-left: 1rem;
+margin-right: 1rem;
+
+}
+
+  .app .third {
+    text-align: center;
+    float: left;
+    margin-left: 1rem;
+margin-right: 1rem;
+
+  }
+
 
 .app .mainHeading h1 {
   text-align: center;
@@ -85,3 +107,5 @@ h2 {
   font-style: normal;
   color: grey;
 }
+
+
